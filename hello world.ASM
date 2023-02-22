@@ -1,3 +1,5 @@
+;Hello world printing prohram
+
 ASSUME DS:DATA,CS:CODE
 DATA SEGMENT
 MSG DB 10,13, "HELLO WORLD!$"
